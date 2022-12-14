@@ -1,0 +1,22 @@
+body {
+    background-color: #ffcccc;
+    color:  #616161;
+    font-size: 21px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    border: 5px solid #0d0d0d;
+}
+
+ol {
+    text-align: initial;
+}
